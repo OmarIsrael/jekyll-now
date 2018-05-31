@@ -4,9 +4,6 @@ title: Software Libre
 date: 2018-05-31 13:44:50 -0500 -0500
 categories: Software libre
 ---
-
-# Software Libre
-
 Alguna vez has tenido que usar algun programa que posiblemente no tienes instalado, y que solo lo utilizaras en una sola ocasion, lo comun seria buscar algun programa gratuito y utilizarlo, pero muchos de los programas gratuitos tienen ciertas limitaciones para hacer uso de los mismos, como puede ser el guardar archivos, el compartirlos ya que en ocasiones usan extensiones propias, el tener un cierto periodo de prueba solamente. El no saber si estara disponible en un futuro en su desarrollo. 
 
 Es aqui donde es mejor elegir software libre, en vez de privativo o bien gratuito, alguna de las ventajas de usar software libre son:
