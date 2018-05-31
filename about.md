@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
 Some information about you!
 
-### More Information
+### Más  Información
 
-A place to include any other types of information that you'd like to include about yourself.
+ Hola mi nombre es Omar soy de México y soy un apasionado a la tecnología y software libre, usó Linux como sistema operativo aunque actualmente no cuento con él. Mi primera distribución fue con Ubuntu Hardy Heron hace ya algunos ayeres, y este es mi blog personal, no tiene una temática como tal,así que será una especie de bitácora general del día a día. 
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contactame
+
+[omar_israel@infinitummail.com](mailto:omar_Israel@infinitummail.com)
