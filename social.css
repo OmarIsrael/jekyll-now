@@ -1,5 +1,12 @@
 @media screen and (max-width: 1000px) {main, .flex{width: 95%;}	}
 
+.container {
+  text-align: justify;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
 
 .shared-panel{
 	overflow: auto;
