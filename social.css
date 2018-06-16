@@ -22,7 +22,8 @@
 	height: 30px;
 	margin: 5px 0; 
 	padding: 0; 
-	background: url("/images/shared.png") no-repeat; 
+	background: url("/images/shared.png") no-repeat;
+	background-position: center; 
 	float: left;
 	margin-right: 5px; 
 	cursor: pointer;
