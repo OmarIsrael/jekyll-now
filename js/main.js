@@ -12,7 +12,7 @@ $(document).on('click', ".shared", function() {
 
 	//Boton Twitter
 	}else if($(this).hasClass('tt')){
-		user = 'DevlazMX';//Nuestro usuario de twitter para mostrar como @user
+		user = 'Rockzeck';//Nuestro usuario de twitter para mostrar como @user
 		url = 'https://twitter.com/intent/tweet?text='+title+'&url='+url+'&via='+user;
 	
 	//Boyton Google Plus
