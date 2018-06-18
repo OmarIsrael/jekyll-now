@@ -7,7 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed|Hind+Siliguri');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Encode+Sans+Condensed|Hind+Siliguri');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -84,6 +84,7 @@ p {
 }
 
 a {
+  font-family:'Barlow Condensed', sans-serif;
   color: #99d6ff;
   text-decoration: none;
 	cursor: pointer;
