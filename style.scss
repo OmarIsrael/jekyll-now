@@ -7,7 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed|Hind+Siliguri');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -21,7 +21,9 @@ html {
 body {
 	background-image: url(/images/cubo.svg) left top repeat;
   //background: $lightGray;
-	font: 18px $helvetica;
+	font-family: 'Encode Sans Condensed', sans-serif;
+  font: 18px
+  // $helvetica;
   //font-family: 'Lato', sans-serif;
   color: $darkerGray;
 }
