@@ -22,10 +22,11 @@ body {
 	background-image: url(/images/cubo.svg) left top repeat;
   //background: $lightGray;
 	font-family: 'Encode Sans Condensed', sans-serif;
-  font: 18px
+  //font: 18px
+  color: $darkerGray;
   // $helvetica;
   //font-family: 'Lato', sans-serif;
-  color: $darkerGray;
+  
 }
 
 .container {
