@@ -21,8 +21,8 @@ html {
 body {
 	background-image: url(/images/cubo.svg) left top repeat;
   //background: $lightGray;
-	font-family: 'Encode Sans Condensed', sans-serif;
-  //font: 18px
+	//font-family: 'Encode Sans Condensed', sans-serif;
+  font: 18px 'Encode Sans Condensed', sans-serif;
   color: $darkerGray;
   // $helvetica;
   //font-family: 'Lato', sans-serif;
