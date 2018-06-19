@@ -43,9 +43,9 @@ Los mensajes para la web comienzan a implementarse hoy, y el resto de las caract
 
 Admito que estas nuevas funciones son necesarias en la comunicación actual y es el inicio para poder enriquecer el uso de sms que actualmente ha sido superado por el uso de aplicaciones de mensajeria instantanea como son Whatsapp o Telegram, Esperemos que su desarrollo no se estanque en un futuro.
 
-**Puedes instalar la aplicación de "Mensajes" desde la GooglePlay o dando click en el siguiente enlace**
+Puedes instalar la aplicación de "Mensajes" desde la GooglePlay o dando click en el siguiente enlace
 
-[Mensajes](http://g.co/androidmessagesapp "Mensajes") 
+**[Mensajes](http://g.co/androidmessagesapp "Mensajes")**
 
 
 
