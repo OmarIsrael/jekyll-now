@@ -25,11 +25,11 @@
      </script>
      <script>
 function myFunction() {
-    var x = document.getElementById("myNavbar");
-    if (x.className === "navbar") {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
         x.className += " responsive";
     } else {
-        x.className = "navbar";
+        x.className = "topnav";
     }
 }
 </script>
@@ -50,18 +50,17 @@ function myFunction() {
           </div>
 
           <div class="topnav" id="myTopnav">
-            <a href="#home" class="active">Home</a>
+            <a href="{{ site.baseurl }}/" class="active">Home</a>
             <a href="#news">News</a>
             <a href="#contact">Contact</a>
             <a href="{{ site.baseurl }}/about">About</a>
-            <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+
+         </header>
       </div>
     </div>
 
