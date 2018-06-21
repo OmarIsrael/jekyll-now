@@ -23,6 +23,16 @@
 
                     });
      </script>
+     <script>
+function myFunction() {
+    var x = document.getElementById("myNavbar");
+    if (x.className === "navbar") {
+        x.className += " responsive";
+    } else {
+        x.className = "navbar";
+    }
+}
+</script>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   <link rel="icon" type="image/png" href="/images/iconfav.png" sizes="any" />
@@ -38,6 +48,14 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
+
+          <div class="navbar" id="myNavbar">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="{{ site.baseurl }}/about">About</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
