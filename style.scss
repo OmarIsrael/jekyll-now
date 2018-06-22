@@ -90,7 +90,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #f2f2f2;
+    color: #e6e6ff;
   }
 }
 
@@ -295,12 +295,11 @@ height: 100%;
   }
 }
   a {
-    margin-right: 5px;
     color: $white;
     text-decoration: underline;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
 
     @include mobile {
       margin: 0 10px;
