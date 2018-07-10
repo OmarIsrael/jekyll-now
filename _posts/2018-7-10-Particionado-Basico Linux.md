@@ -21,7 +21,7 @@ Ahora bien si eres un usuario inicial en el uso de distribuciones Linux es recom
 
 Esta particón es usada para contener los datos creados por el usuario dentro de Linux, y su uso es muy recomendado ya que al momento de algun error en la distribución donde sea necesario la reinstalación del sistema esta partición ayudara a no perder ningun dato del usuario.
 
-Existen mas particiones que podemos crear dentro de Linux, y su uso puede ayudar especificamente para algunas tareas, puedes encontrar mas información acerca de las particiones en Linux en el siguiente enlace:[Particiones](https://www.dell.com/support/article/mx/es/mxbsdt1/sln152018/los-tipos-y-definiciones-de-ubuntu-linux-particiones-y-directorios-se-explica?lang=es "Particiones")
+Existen mas particiones que podemos crear dentro de Linux, y su uso puede ayudar especificamente para algunas tareas, puedes encontrar mas información acerca de las particiones en Linux en el siguiente enlace: [Particiones](https://www.dell.com/support/article/mx/es/mxbsdt1/sln152018/los-tipos-y-definiciones-de-ubuntu-linux-particiones-y-directorios-se-explica?lang=es "Particiones")
 
 ### Nota 
 
@@ -43,11 +43,10 @@ Sera mas que suficiente para un uso recomendado en la mayoria de las distribucio
 Dejo un video basico sobre como realizar estas particiones.
 
 <div class="video-responsive">
-<iframe  src="https://youtu.be/MP5Yn1u13Vc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MP5Yn1u13Vc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Mas información acerca del uso de las particiones en linux en este enlace:
-
 [Particiones](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/6/html/installation_guide/s2-diskpartrecommend-x86 "Particiones")
 
 
