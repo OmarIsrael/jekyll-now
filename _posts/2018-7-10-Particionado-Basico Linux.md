@@ -47,7 +47,7 @@ Dejo un video basico sobre como realizar estas particiones.
 </div>
 
 Mas información acerca del uso de las particiones en linux en este enlace:
-[Particiones](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/6/html/installation_guide/s2-diskpartrecommend-x86 "Particiones")
+[Particiones](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/6/html/installation_guide/s2-diskpartrecommend-x86 "Particiones"){:target="_blank"}
 
 
 
