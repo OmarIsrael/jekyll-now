@@ -21,7 +21,7 @@ Ahora bien si eres un usuario inicial en el uso de distribuciones Linux es recom
 
 Esta particón es usada para contener los datos creados por el usuario dentro de Linux, y su uso es muy recomendado ya que al momento de algun error en la distribución donde sea necesario la reinstalación del sistema esta partición ayudara a no perder ningun dato del usuario.
 
-Existen mas particiones que podemos crear dentro de Linux, y su uso puede ayudar especificamente para algunas tareas, puedes encontrar mas información acerca de las particiones en Linux en el siguiente enlace: [Particiones](https://www.dell.com/support/article/mx/es/mxbsdt1/sln152018/los-tipos-y-definiciones-de-ubuntu-linux-particiones-y-directorios-se-explica?lang=es "Particiones")
+Existen mas particiones que podemos crear dentro de Linux, y su uso puede ayudar especificamente para algunas tareas, puedes encontrar mas información acerca de las particiones en Linux en el siguiente enlace: [Particiones](https://www.dell.com/support/article/mx/es/mxbsdt1/sln152018/los-tipos-y-definiciones-de-ubuntu-linux-particiones-y-directorios-se-explica?lang=es "Particiones"){:target="_blank"}
 
 ### Nota 
 
@@ -29,7 +29,7 @@ Algunas distribuciones recomiendan realizar una particion conocida como Boot.
 
 ### La partición Boot
  
- esta partición se encarga de contener las imágenes del kernel y del ramdisk, así como el archivo de configuración del gestor de arranque y las etapas del mismo. También almacena datos que se utilizan por el kernel antes de que se ejecuten los programas en el espacio de usuario.
+ Esta partición se encarga de contener las imágenes del kernel y del ramdisk, así como el archivo de configuración del gestor de arranque y las etapas del mismo. También almacena datos que se utilizan por el kernel antes de que se ejecuten los programas en el espacio de usuario.
 
 En mi oponión haciendo uso de las siguientes particiones: 
 
