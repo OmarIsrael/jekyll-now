@@ -28,9 +28,9 @@ body {
   text-align: justify;
   line-height: 1.5;
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 950px;
   padding: 30px;
-  width: 100%;
+  
 }
 
 #scrollUp {
@@ -374,6 +374,7 @@ footer {
 /* Header/Blog Title */
 .header {
   padding: 30px;
+  max-width: 950px;
   font-size: 30px;
   text-align: center;
   background: #0d0d0d;
